@@ -28,8 +28,7 @@ The dashboard includes:
 > For a clearer and high-definition view, please download the PDF provided in this repository.
 
 ## Files in this Repository
-- **Dashboard Screenshot**: A static image of the dashboard for quick reference.
-- **Dashboard PDF**: A downloadable file for a high-quality view.
+- **Dashboard PDF**
 
 ## About Me
 This project is part of my journey to learn data visualization and dashboarding. Feedback and suggestions are welcome!
